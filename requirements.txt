@@ -1,0 +1,10 @@
+streamlit
+pandas
+opencv-python
+albumentations
+scikit-image
+torch
+ultralytics
+dlib
+scikit-learn
+matplotlib
