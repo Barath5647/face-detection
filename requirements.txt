@@ -6,6 +6,7 @@ albumentations
 scikit-image
 torch
 ultralytics
+cmake
 dlib
 scikit-learn
 matplotlib
